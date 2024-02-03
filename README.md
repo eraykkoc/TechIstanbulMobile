@@ -1,0 +1,2 @@
+# TechIstanbulMobile
+ Bu kod, bir API'yi kullanarak kullanıcı verilerini yönetmek için basit bir yapı sağlar. APIManager sınıfı, kullanıcıları listeleme, detaylarını alma, ekleme, güncelleme ve silme gibi temel işlemleri gerçekleştirmek için kullanılır. Yapılar, JSON formatında veri taşımak için kullanılır ve Codable protokolüyle kolayca kodlanabilir veya çözülebilir. Bu sayede, kullanıcı verileri API istekleri arasında kolayca iletilip işlenebilir.
